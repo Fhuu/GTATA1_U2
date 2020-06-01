@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\dirob\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\dirob\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_GTAT_U2_S0566367.-1520043739.00" t="ExcludeRecursive" />
+    <e p="C:\Users\dirob\OneDrive\HTW Berlin\Semester5\GTATA1\GTAT_U2_S0566367" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="PlayerRotation.cs" t="Include" />
+        <e p="Presets" t="Include">
+          <e p="AxF" t="Include">
+            <e p="AxF.cs" t="Include" />
+            <e p="AxF.cs.hlsl" t="Include" />
+            <e p="AxF.hlsl" t="Include" />
+            <e p="AxF.shader" t="Include" />
+            <e p="AxFData.hlsl" t="Include" />
+            <e p="AxFLTCAreaLight" t="Include">
+              <e p="AxFLTCAreaLight.hlsl" t="Include" />
+              <e p="LtcData.GGX2.cs" t="Include" />
+            </e>
+            <e p="AxFPreIntegratedFGD.hlsl" t="Include" />
+            <e p="AxFProperties.hlsl" t="Include" />
+            <e p="PreIntegratedFGD_CookTorrance.shader" t="Include" />
+            <e p="PreIntegratedFGD_Ward.shader" t="Include" />
+            <e p="ShaderPass" t="Include">
+              <e p="AxFDepthPass.hlsl" t="Include" />
+              <e p="AxFDistortionPass.hlsl" t="Include" />
+              <e p="AxFSharePass.hlsl" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BallGenerator" t="Include">
+            <e p="BallMeshGeneratorBottom.cs" t="Include" />
+            <e p="BallMeshGeneratorTop.cs" t="Include" />
+          </e>
+          <e p="MouseControl.cs" t="Include" />
+          <e p="Movement.cs" t="Include" />
+          <e p="Rotate.cs" t="Include" />
+          <e p="SimpleCameraController.cs" t="Include" />
+          <e p="TerrainMesh.cs" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+        <e p="TutorialInfo" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="GTAT_U2_S0566367.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
