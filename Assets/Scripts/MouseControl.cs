@@ -8,6 +8,7 @@ public class MouseControl : MonoBehaviour
     {
         _xRotation = 0;
         Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
     }
 
     // Update is called once per frame

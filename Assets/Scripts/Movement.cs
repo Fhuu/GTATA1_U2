@@ -20,5 +20,6 @@ public class Movement : MonoBehaviour
         if(Input.GetKey(KeyCode.S)) gameObject.transform.Translate(Vector3.back * (Time.deltaTime * movementSpeed));
         if(Input.GetKey(KeyCode.W)) gameObject.transform.Translate(Vector3.forward * (Time.deltaTime * movementSpeed));
         if(Input.GetKey(KeyCode.Space)) gameObject.transform.Translate(Vector3.up *  (Time.deltaTime * movementSpeed));
+        if(Input.GetKey(KeyCode.LeftControl)) gameObject.transform.Translate(Vector3.down * (Time.deltaTime * movementSpeed));
     }
 }
